@@ -1,0 +1,9 @@
+
+{
+    "ship_threshold": 20,
+    "prepaid_threshold": 50,
+    "hold_threshold": 70,
+    "prepaid_discount": 20,
+    "confirmation_timeout_hours": 24,
+    "auto_cancel_high_risk": false
+}
